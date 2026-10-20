@@ -13,8 +13,8 @@ API para gestión de tareas colaborativas. Proyecto hecho con NestJS + MongoDB A
 **Instalación:**
 
 ```bash
-git clone https://github.com/Andres-Arango280/TercerExamen.git
-cd TercerExamen
+git clone https://github.com/Andres-Arango280/taskflow-api-nestjs.git
+cd taskflow-api-nestjs
 npm install
 ```
 
